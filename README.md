@@ -2,7 +2,7 @@
 
 # Fiscal Policy Simulator
 
-The Fiscal Policy Simulator is an interactive Python application developed to simulate the impact of fiscal policy changes on an economy's GDP and price level. This project was created using the Tkinter library for creating the graphical user interface (GUI) and the Matplotlib library for data visualization.
+The Fiscal Policy Simulator is an interactive Python application developed to simulate the impact of fiscal policy changes on an economy's GDP and price level. This project was created using the Numpy library and the Matplotlib library for data visualization.
 
 ## Features
 
@@ -15,12 +15,12 @@ The Fiscal Policy Simulator is an interactive Python application developed to si
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Make sure you have Python installed along with the required libraries (Tkinter and Matplotlib).
+2. Make sure you have Python installed along with the required libraries.
 3. Run the `fiscal_policy_simulator.py` file.
 4. Input base and future tax rates, and government spending to observe the simulated economic impact.
 5. The application will dynamically plot the changes in GDP and price level and indicate the fiscal policy type.
 
 ## Team Collaboration
 
-This project was a collaborative effort involving Arshnoor Bhutani, Arshiya Mahajan and Akshadha Bhutani. Each team member contributed to various aspects, including GUI development, calculation logic, and testing.
+This project was a collaborative effort involving Arshnoor Bhutani, Arshiya Mahajan and Akshadha Bhutani. Each team member contributed to various aspects, including User Interface(UI), calculation logic, and testing.
 
