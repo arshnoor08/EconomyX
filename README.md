@@ -22,8 +22,5 @@ The Fiscal Policy Simulator is an interactive Python application developed to si
 
 ## Team Collaboration
 
-This project was a collaborative effort involving [Your Name] and [Teammate's Name]. Each team member contributed to various aspects, including GUI development, calculation logic, and testing.
+This project was a collaborative effort involving Arshnoor Bhutani, Arshiya Mahajan and Akshadha Bhutani. Each team member contributed to various aspects, including GUI development, calculation logic, and testing.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
