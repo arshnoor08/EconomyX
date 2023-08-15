@@ -1,8 +1,8 @@
 # EconomyX
 
-# Fiscal Policy Simulator
+##Fiscal Policy Simulator
 
-The Fiscal Policy Simulator is an interactive Python application developed to simulate the impact of fiscal policy changes on an economy's GDP and price level. This project was created using the Numpy library and the Matplotlib library for data visualization.
+EconomyX (Fiscal Policy Simulator) is an interactive Python application developed to simulate the impact of fiscal policy changes on an economy's GDP and price level. This project was created using the Numpy library and the Matplotlib library for data visualization.
 
 ## Features
 
