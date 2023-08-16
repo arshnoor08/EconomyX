@@ -27,6 +27,7 @@ future_govt_spending = float(input("Enter the future government spending: "))
 if base_tax_rate<future_tax_rate and base_govt_spending>future_govt_spending:
     # contractionary policy
     # shifts downwards
+
     x_values_down = [20, 60]
     y_values_down = [40, 15]
     plt.plot(x_values, y_values, label="AD-1", color="black")
@@ -34,13 +35,17 @@ if base_tax_rate<future_tax_rate and base_govt_spending>future_govt_spending:
 
     plt.plot(x_values_down, y_values_down, label="AD-2",  color="#EA5E27")
     plt.text(28, 37, 'AD-2', fontsize=11, fontname="Georgia")
+    plt.yticks(color='w')
+    plt.xticks(color='w')
 
     plt.xlabel("GDP (Output)", fontname="Georgia")
     plt.ylabel("Price Level", fontname="Georgia")
     plt.title("Fiscal Policy Impact", fontname="Georgia")
-    plt.legend()
     plt.grid(False)
     ax.set_facecolor("#F5EFEA")
+
+    ax.annotate('', xy=(40, 50), fontname="Georgia", fontsize=9)
+
     plt.show()
 
 elif base_tax_rate>future_tax_rate and base_govt_spending<future_govt_spending:
@@ -53,7 +58,8 @@ elif base_tax_rate>future_tax_rate and base_govt_spending<future_govt_spending:
 
     plt.plot(x_values_up, y_values_up, label="AD-2", color="#EA5E27")
     plt.text(50, 55, 'AD-2', fontsize=11, fontname="Georgia")
-
+    plt.yticks(color='w')
+    plt.xticks(color='w')
 
     plt.xlabel("GDP (Output)", fontname="Georgia")
     plt.ylabel("Price Level", fontname="Georgia")
@@ -66,8 +72,3 @@ elif base_tax_rate>future_tax_rate and base_govt_spending<future_govt_spending:
 else:
     print("Please enter values that show a shift in the graph.")
     exit()
-
-
-
-
-
