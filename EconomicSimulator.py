@@ -41,11 +41,11 @@ if base_tax_rate<future_tax_rate and base_govt_spending>future_govt_spending:
     plt.xlabel("GDP (Output)", fontname="Georgia")
     plt.ylabel("Price Level", fontname="Georgia")
     plt.title("Fiscal Policy Impact", fontname="Georgia")
+
     plt.grid(False)
     ax.set_facecolor("#F5EFEA")
 
-    ax.annotate('', xy=(40, 50), fontname="Georgia", fontsize=9)
-
+    plt.title("Contractionary Fiscal Policy", fontname="Georgia")
     plt.show()
 
 elif base_tax_rate>future_tax_rate and base_govt_spending<future_govt_spending:
@@ -67,6 +67,8 @@ elif base_tax_rate>future_tax_rate and base_govt_spending<future_govt_spending:
     plt.title("EconomyX", fontname="Georgia", weight='bold')
     plt.grid(False)
     ax.set_facecolor("#F5EFEA")
+
+    plt.title("Expansionary Fiscal Policy", fontname="Georgia")
     plt.show()
 
 else:
