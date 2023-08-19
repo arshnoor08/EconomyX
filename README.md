@@ -17,21 +17,21 @@ EconomyX (Fiscal Policy Simulator) is an interactive Python application develope
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed along with the required libraries and a suitable IDE (Integrated development environment).
 
-You need to install numpy and matplotlib in your machine inorder for the simulator's code to function. The method on how to install numpy and matplotlib is given below :
+    You need to install Numpy and Matplotlib in your machine inorder for the simulator's code to function. The method on how to install Numpy and Matplotlib is given below :
 
-Windows
+    Windows
 
-    Numpy - https://www.geeksforgeeks.org/how-to-install-numpy-on-windows/
+        Numpy - https://www.geeksforgeeks.org/how-to-install-numpy-on-windows/
 
-    Matplotlib - https://www.scaler.com/topics/matplotlib/install-matplotlib/
+        Matplotlib - https://www.scaler.com/topics/matplotlib/install-matplotlib/
 
-MacOs
+    MacOs
 
-    Numpy - https://www.geeksforgeeks.org/how-to-install-numpy-on-macos/
+        Numpy - https://www.geeksforgeeks.org/how-to-install-numpy-on-macos/
 
-    Matplotlib - https://www.scaler.com/topics/matplotlib/install-matplotlib/
+        Matplotlib - https://www.scaler.com/topics/matplotlib/install-matplotlib/
 
-3. Run the `fiscal_policy_simulator.py` file.
+3. Run the `EconomicSimulator.py` file.
 4. Input base and future tax rates, and government spending to observe the simulated economic impact.
 5. The application will dynamically plot the changes in GDP and price level and indicate the fiscal policy type.
 
