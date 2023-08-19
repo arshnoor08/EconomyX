@@ -22,5 +22,5 @@ EconomyX (Fiscal Policy Simulator) is an interactive Python application develope
 
 ## Team Collaboration
 
-This project was a collaborative effort involving Arshnoor Bhutani, Arshiya Mahajan, Aman Sharma and Akshadha Bhutani. Each team member contributed to various aspects, including User Interface(UI), calculation logic, economic explanation and testing.
+This project was a collaborative effort involving Arshnoor Bhutani, Arshiya Mahajan, Aman and Akshadha Bhutani. Each team member contributed to various aspects, including User Interface(UI), calculation logic, economic explanation and testing.
 
