@@ -10,17 +10,17 @@ Governments use fiscal measures to control inflation and deflation, which are tw
 
 1. Measures to Control Inflation:
 
-Raise Taxes: Increasing taxes, especially on consumption (e.g., sales taxes or value-added taxes), can reduce disposable income and discourage spending. This can help curb demand-pull inflation, where excessive demand leads to rising prices.
+    Raise Taxes: Increasing taxes, especially on consumption (e.g., sales taxes or value-added taxes), can reduce disposable income and discourage spending. This can help curb demand-pull inflation, where excessive demand       leads to rising prices.
 
-Cut Government Spending: Reducing government expenditure can also reduce overall demand in the economy, contributing to inflation control. Governments can cut spending on non-essential projects and programs.
+    Cut Government Spending: Reducing government expenditure can also reduce overall demand in the economy, contributing to inflation control. Governments can cut spending on non-essential projects and programs.
 
 This economic strategy is referred to as "contractionary fiscal policy". In this graphical representation, we observe two Aggregate Demand curves: AD1 and AD2. The initial demand curve, AD1, serves as the baseline and is positioned beneath the subsequent demand curve, AD2, which signifies an upward shift in demand.
 
 
 2. Measures to Control Deflation:
 
-Cut Taxes: Lowering taxes, especially income taxes, can increase disposable income and encourage consumer spending. This boosts demand and helps counter deflationary pressures.
+    Cut Taxes: Lowering taxes, especially income taxes, can increase disposable income and encourage consumer spending. This boosts demand and helps counter deflationary pressures.
 
-Increase Government Spending: Governments can increase public investment in infrastructure, education, and healthcare. This stimulates economic activity and job creation, increasing overall demand.
+    Increase Government Spending: Governments can increase public investment in infrastructure, education, and healthcare. This stimulates economic activity and job creation, increasing overall demand.
 
 This economic strategy is referred to as "expansionary fiscal policy". In this graphical representation, we observe two Aggregate Demand curves: AD1 and AD2. The initial demand curve, AD1, serves as the baseline and is positioned beneath the subsequent demand curve, AD2, which signifies an upward shift in demand.
