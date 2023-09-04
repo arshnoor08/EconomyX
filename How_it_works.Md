@@ -16,6 +16,7 @@ Governments use fiscal measures to control inflation and deflation, which are tw
 
 This economic strategy is referred to as "contractionary fiscal policy". In this graphical representation, we observe two Aggregate Demand curves: AD1 and AD2. The initial demand curve, AD1, serves as the baseline and is positioned beneath the subsequent demand curve, AD2, which signifies an upward shift in demand.
 
+file:///Users/geetamahajan/Desktop/Figure_2.png
 
 2. Measures to Control Deflation:
 
